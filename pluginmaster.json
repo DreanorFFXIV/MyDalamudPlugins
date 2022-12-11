@@ -17,6 +17,25 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "0"
-  }
+  },
+  {
+    "Author": "Dreanor",
+    "Name": "SokenLahee",
+    "InternalName": "SokenLahee",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Plays Soken's legendary performance of Lahee whenever you visit The Rak'tika Greatwood",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/DreanorFFXIV/SokenLahee",
+    "DalamudApiLevel": 7,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/DreanorFFXIV/SokenLahee/master/icon.png",
+    "Punchline": "Bless your ears with the right version!",
+    "DownloadLinkInstall": "https://github.com/DreanorFFXIV/SokenLahee/releases/latest/download/SokenLahee.zip",
+    "DownloadLinkTesting": "https://github.com/DreanorFFXIV/SokenLahee/releases/latest/download/SokenLahee.zip",
+    "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/SokenLahee/releases/latest/download/SokenLahee.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "0"
+  },
 ]
 
