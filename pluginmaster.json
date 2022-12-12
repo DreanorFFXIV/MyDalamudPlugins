@@ -37,5 +37,24 @@
     "IsTestingExclusive": false,
     "LastUpdated": "0"
   },
+  {
+    "Author": "Dreanor",
+    "Name": "EventCalendar",
+    "InternalName": "EventCalendar",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "A calendar of in-game events and important dates from the lodestone",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/DreanorFFXIV/EventCalendar",
+    "DalamudApiLevel": 7,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/DreanorFFXIV/EventCalendar/master/icon.png",
+    "Punchline": "A calendar of in-game events and important dates from the lodestone",
+    "DownloadLinkInstall": "https://github.com/DreanorFFXIV/EventCalendar/releases/latest/download/EventCalendar.zip",
+    "DownloadLinkTesting": "https://github.com/DreanorFFXIV/EventCalendar/releases/latest/download/EventCalendar.zip",
+    "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/EventCalendar/releases/latest/download/EventCalendar.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "0"
+  },
 ]
 
