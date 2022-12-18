@@ -41,7 +41,7 @@
     "Author": "Dreanor",
     "Name": "EventCalendar",
     "InternalName": "EventCalendar",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.1.2.0",
     "Description": "A calendar of in-game events and important dates from the lodestone",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/DreanorFFXIV/EventCalendar",
