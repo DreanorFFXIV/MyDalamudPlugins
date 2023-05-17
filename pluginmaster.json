@@ -56,5 +56,24 @@
     "IsTestingExclusive": false,
     "LastUpdated": "0"
   },
+  {
+    "Author": "Dreanor",
+    "Name": "Altoholic",
+    "InternalName": "Altoholic",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Everything you need for your alts",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/DreanorFFXIV/Altoholic",
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/DreanorFFXIV/Altoholic/master/icon.png",
+    "Punchline": "Everything you need for your alts",
+    "DownloadLinkInstall": "https://github.com/DreanorFFXIV/Altoholic/releases/latest/download/Altoholic.zip",
+    "DownloadLinkTesting": "https://github.com/DreanorFFXIV/Altoholic/releases/latest/download/Altoholic.zip",
+    "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/Altoholic/releases/latest/download/Altoholic.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "0"
+  },
 ]
 
