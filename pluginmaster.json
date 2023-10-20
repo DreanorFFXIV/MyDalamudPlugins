@@ -83,7 +83,7 @@
     "Description": "Shutdown",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/DreanorFFXIV/Shutdown",
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "LoadPriority": 0,
     "Punchline": "Shutdown",
     "DownloadLinkInstall": "https://github.com/DreanorFFXIV/Shutdown/releases/latest/download/Shutdown.zip",
