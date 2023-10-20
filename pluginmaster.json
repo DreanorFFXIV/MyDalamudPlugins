@@ -75,5 +75,23 @@
     "IsTestingExclusive": false,
     "LastUpdated": "0"
   },
+  {
+    "Author": "Dreanor",
+    "Name": "Shutdown",
+    "InternalName": "Shutdown",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Shutdown",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/DreanorFFXIV/Shutdown",
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "Punchline": "Shutdown",
+    "DownloadLinkInstall": "https://github.com/DreanorFFXIV/Shutdown/releases/latest/download/Shutdown.zip",
+    "DownloadLinkTesting": "https://github.com/DreanorFFXIV/Shutdown/releases/latest/download/Shutdown.zip",
+    "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/Shutdown/releases/latest/download/Shutdown.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "0"
+  },
 ]
 
