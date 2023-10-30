@@ -55,5 +55,28 @@
     "IsTestingExclusive": false,
     "LastUpdated": "0"
   },
+  {
+    "Author": "Dreanor",
+    "Name": "Better Targeting System Unlocked",
+    "InternalName": "BetterTargetingSystem",
+    "AssemblyVersion": "0.0.8.0",
+    "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/DreanorFFXIV/BetterTargetingSystem",
+    "Tags": [
+      "Tab",
+      "Target",
+      "Targeting"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadPriority": 0,
+    "Punchline": "Shutdown",
+    "DownloadLinkInstall": "https://github.com/DreanorFFXIV/BetterTargetingSystem/releases/latest/download/BetterTargetingSystem.zip",
+    "DownloadLinkTesting": "https://github.com/DreanorFFXIV/BetterTargetingSystem/releases/latest/download/BetterTargetingSystem.zip",
+    "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/BetterTargetingSystem/releases/latest/download/BetterTargetingSystem.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "0"
+  },
 ]
 
