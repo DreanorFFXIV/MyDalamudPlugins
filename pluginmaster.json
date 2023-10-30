@@ -70,7 +70,7 @@
     ],
     "DalamudApiLevel": 9,
     "LoadPriority": 0,
-    "Punchline": "Shutdown",
+    "Punchline": "BetterTargetingSystem",
     "DownloadLinkInstall": "https://github.com/DreanorFFXIV/BetterTargetingSystem/releases/latest/download/BetterTargetingSystem.zip",
     "DownloadLinkTesting": "https://github.com/DreanorFFXIV/BetterTargetingSystem/releases/latest/download/BetterTargetingSystem.zip",
     "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/BetterTargetingSystem/releases/latest/download/BetterTargetingSystem.zip",
