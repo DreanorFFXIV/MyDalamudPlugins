@@ -58,7 +58,7 @@
   {
     "Author": "Dreanor",
     "Name": "Better Targeting System Unlocked",
-    "InternalName": "BetterTargetingSystem",
+    "InternalName": "BetterTargetingSystemUnlocked",
     "AssemblyVersion": "1.0.0.0",
     "Description": "A more intelligent targeting system for the game which also includes new keybinds. Now with PvP unlocked.",
     "ApplicableVersion": "any",
