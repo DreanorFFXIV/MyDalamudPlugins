@@ -59,7 +59,7 @@
     "Author": "Dreanor",
     "Name": "Better Targeting System Unlocked",
     "InternalName": "BetterTargetingSystem",
-    "AssemblyVersion": "0.0.8.0",
+    "AssemblyVersion": "1.0.0.0",
     "Description": "A more intelligent targeting system for the game which also includes new keybinds. Now with PvP unlocked.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/DreanorFFXIV/BetterTargetingSystem",
