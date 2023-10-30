@@ -73,4 +73,22 @@
     "IsTestingExclusive": false,
     "LastUpdated": "0"
   },
+  {
+    "Author": "Dreanor",
+    "Name": "AutoBusy",
+    "InternalName": "AutoBusy",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "AutoBusy",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/DreanorFFXIV/AutoBusy",
+    "DalamudApiLevel": 9,
+    "LoadPriority": 0,
+    "Punchline": "AutoBusy",
+    "DownloadLinkInstall": "https://github.com/DreanorFFXIV/AutoBusy/releases/latest/download/AutoBusy.zip",
+    "DownloadLinkTesting": "https://github.com/DreanorFFXIV/AutoBusy/releases/latest/download/AutoBusy.zip",
+    "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/AutoBusy/releases/latest/download/AutoBusy.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "0"
+  },
 ]
