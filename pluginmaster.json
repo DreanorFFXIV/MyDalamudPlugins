@@ -59,7 +59,7 @@
     "Author": "Dreanor",
     "Name": "Shutdown",
     "InternalName": "Shutdown",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.1.2.0",
     "Description": "Shutdown",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/DreanorFFXIV/Shutdown",
